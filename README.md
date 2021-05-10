@@ -1,0 +1,1 @@
+# folder-pane-divided-view
